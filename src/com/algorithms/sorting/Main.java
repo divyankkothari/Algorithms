@@ -1,4 +1,4 @@
-package com.algorithms.example;
+package com.algorithms.sorting;
 
 public class Main {
 
