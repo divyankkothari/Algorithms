@@ -1,4 +1,4 @@
-package com.algorithms.sorting;
+package SORTING;
 
 public class BubbleSort {
     public void bubbleSort(int arr[])
